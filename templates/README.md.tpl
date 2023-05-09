@@ -14,7 +14,7 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-### 🌱 Check out my recent contirbution
+#### 🔨 Check out my recent contirbution
 
 - [SUBMARINE-1293. Move seldon-core install to helm](https://github.com/apache/submarine/pull/999)
 - [SUBMARINE-1296. Add create user function when register a new user](https://github.com/apache/submarine/pull/1012)
