@@ -10,7 +10,6 @@
 - [hhcs9527/Distributed-system-MIT-6.824](https://github.com/hhcs9527/Distributed-system-MIT-6.824) -  (7 months ago)
 - [hhcs9527/Operating-system-MIT-6.1810](https://github.com/hhcs9527/Operating-system-MIT-6.1810) -  (8 months ago)
 - [hhcs9527/Operating-system-labs](https://github.com/hhcs9527/Operating-system-labs) - MIT-6.1810 (8 months ago)
-- [hhcs9527/Distributed-system-labs](https://github.com/hhcs9527/Distributed-system-labs) - main (1 year ago)
 
 #### 🌱 Check out my recent projects
 
