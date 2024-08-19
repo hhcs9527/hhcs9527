@@ -7,7 +7,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible.  (9 months ago)
-- [hhcs9527/Distributed-system-MIT-6.824](https://github.com/hhcs9527/Distributed-system-MIT-6.824) -  (1 year ago)
 
 #### 🌱 Check out my recent projects
 
