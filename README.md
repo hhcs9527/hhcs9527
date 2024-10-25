@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible.  (11 months ago)
+- [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible.  (1 year ago)
 
 #### 🌱 Check out my recent projects
 
