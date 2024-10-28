@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [hhcs9527/lily58-pro](https://github.com/hhcs9527/lily58-pro) -  (today)
 - [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible.  (1 year ago)
 
 #### 🌱 Check out my recent projects
