@@ -9,7 +9,6 @@
 - [hhcs9527/zmk-corne](https://github.com/hhcs9527/zmk-corne) -  (5 days ago)
 - [hhcs9527/Solfle](https://github.com/hhcs9527/Solfle) -  (1 week ago)
 - [hhcs9527/lily58-pro](https://github.com/hhcs9527/lily58-pro) -  (1 week ago)
-- [flyteorg/flytekit](https://github.com/flyteorg/flytekit) - Extensible Python SDK for developing Flyte tasks and workflows. Simple to get started and learn and highly extensible.  (1 year ago)
 
 #### 🌱 Check out my recent projects
 
