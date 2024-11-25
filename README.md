@@ -7,8 +7,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [hhcs9527/zmk-corne](https://github.com/hhcs9527/zmk-corne) -  (3 weeks ago)
-- [hhcs9527/Solfle](https://github.com/hhcs9527/Solfle) -  (3 weeks ago)
-- [hhcs9527/lily58-pro](https://github.com/hhcs9527/lily58-pro) -  (3 weeks ago)
+- [hhcs9527/Solfle](https://github.com/hhcs9527/Solfle) -  (4 weeks ago)
+- [hhcs9527/lily58-pro](https://github.com/hhcs9527/lily58-pro) -  (4 weeks ago)
 
 #### 🌱 Check out my recent projects
 
