@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hhcs9527/zmk-corne](https://github.com/hhcs9527/zmk-corne) -  (3 weeks ago)
-- [hhcs9527/Solfle](https://github.com/hhcs9527/Solfle) -  (4 weeks ago)
-- [hhcs9527/lily58-pro](https://github.com/hhcs9527/lily58-pro) -  (4 weeks ago)
+- [hhcs9527/zmk-corne](https://github.com/hhcs9527/zmk-corne) -  (4 weeks ago)
+- [hhcs9527/Solfle](https://github.com/hhcs9527/Solfle) -  (1 month ago)
+- [hhcs9527/lily58-pro](https://github.com/hhcs9527/lily58-pro) -  (1 month ago)
 
 #### 🌱 Check out my recent projects
 
