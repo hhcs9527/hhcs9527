@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [hhcs9527/zmk-corne](https://github.com/hhcs9527/zmk-corne) -  (5 days ago)
+- [hhcs9527/zmk-corne](https://github.com/hhcs9527/zmk-corne) -  (6 days ago)
 - [hhcs9527/Solfle](https://github.com/hhcs9527/Solfle) -  (3 months ago)
 - [hhcs9527/lily58-pro](https://github.com/hhcs9527/lily58-pro) -  (3 months ago)
 
