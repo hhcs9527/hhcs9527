@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [pohanhuangtw/test-setting](https://github.com/pohanhuangtw/test-setting) -  (4 days ago)
+- [pohanhuangtw/test-setting](https://github.com/pohanhuangtw/test-setting) -  (5 days ago)
 - [hhcs9527/zmk-corne](https://github.com/hhcs9527/zmk-corne) -  (4 months ago)
-- [hhcs9527/Solfle](https://github.com/hhcs9527/Solfle) -  (7 months ago)
-- [hhcs9527/lily58-pro](https://github.com/hhcs9527/lily58-pro) -  (7 months ago)
+- [hhcs9527/Solfle](https://github.com/hhcs9527/Solfle) -  (8 months ago)
+- [hhcs9527/lily58-pro](https://github.com/hhcs9527/lily58-pro) -  (8 months ago)
 
 #### 🌱 Check out my recent projects
 
