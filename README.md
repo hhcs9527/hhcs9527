@@ -13,11 +13,11 @@
 
 #### 🌱 Check out my recent projects
 
+- [hhcs9527/kube-lens](https://github.com/hhcs9527/kube-lens) - See every image through a security lens.
 - [hhcs9527/hhcs9527.github.io](https://github.com/hhcs9527/hhcs9527.github.io) - 
 - [hhcs9527/zmk-corne](https://github.com/hhcs9527/zmk-corne) - 
 - [hhcs9527/Solfle](https://github.com/hhcs9527/Solfle) - 
 - [hhcs9527/lily58-pro](https://github.com/hhcs9527/lily58-pro) - 
-- [hhcs9527/Distributed-system-MIT-6.824](https://github.com/hhcs9527/Distributed-system-MIT-6.824) - 
 
 #### 🔨 Check out my recent contirbution
 
