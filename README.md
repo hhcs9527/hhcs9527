@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Mooncake-Labs/moonlink](https://github.com/Mooncake-Labs/moonlink) - Sub-Second Postgres to Iceberg Mirroring (today)
+- [Mooncake-Labs/moonlink](https://github.com/Mooncake-Labs/moonlink) - Sub-Second Postgres to Iceberg Mirroring (1 day ago)
 - [hhcs9527/hhcs9527.github.io](https://github.com/hhcs9527/hhcs9527.github.io) -  (1 week ago)
 - [pohanhuangtw/test-setting](https://github.com/pohanhuangtw/test-setting) -  (1 month ago)
 - [hhcs9527/zmk-corne](https://github.com/hhcs9527/zmk-corne) -  (5 months ago)
