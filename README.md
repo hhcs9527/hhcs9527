@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Mooncake-Labs/moonlink](https://github.com/Mooncake-Labs/moonlink) - Sub-Second Postgres to Iceberg Mirroring (3 days ago)
+- [Mooncake-Labs/moonlink](https://github.com/Mooncake-Labs/moonlink) - Sub-Second Postgres to Iceberg Mirroring (today)
 - [kube-rs/kopium](https://github.com/kube-rs/kopium) - Kubernetes OPenapI UnMangler (5 days ago)
 - [hhcs9527/hhcs9527.github.io](https://github.com/hhcs9527/hhcs9527.github.io) -  (1 month ago)
 - [pohanhuangtw/test-setting](https://github.com/pohanhuangtw/test-setting) -  (2 months ago)
