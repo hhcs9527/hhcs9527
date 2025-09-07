@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Mooncake-Labs/moonlink](https://github.com/Mooncake-Labs/moonlink) - Simple &amp; Real-Time Ingestion into Apache Iceberg. (today)
-- [kube-rs/gateway-api-rs](https://github.com/kube-rs/gateway-api-rs) - Kubernetes Gateway API bindings for Rust (1 week ago)
-- [dentiny/duck-read-cache-fs](https://github.com/dentiny/duck-read-cache-fs) - This repository is made as read-only filesystem for remote access. (1 week ago)
+- [Mooncake-Labs/moonlink](https://github.com/Mooncake-Labs/moonlink) - Simple &amp; Real-Time Ingestion into Apache Iceberg. (1 day ago)
+- [kube-rs/gateway-api-rs](https://github.com/kube-rs/gateway-api-rs) - Kubernetes Gateway API bindings for Rust (2 weeks ago)
+- [dentiny/duck-read-cache-fs](https://github.com/dentiny/duck-read-cache-fs) - This repository is made as read-only filesystem for remote access. (2 weeks ago)
 - [kube-rs/kopium](https://github.com/kube-rs/kopium) - Kubernetes OPenapI UnMangler (2 weeks ago)
 - [hhcs9527/hhcs9527.github.io](https://github.com/hhcs9527/hhcs9527.github.io) -  (1 month ago)
 
